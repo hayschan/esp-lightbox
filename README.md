@@ -4,6 +4,7 @@
 
 - Built with Matter
 - Using WS2814 RGBW LED
+- PCB designed using [Flux](https://www.flux.ai/hayschan/esp-lightbox)
 
 ## Flash
 
