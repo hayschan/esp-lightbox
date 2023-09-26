@@ -1,9 +1,10 @@
-# ESP-PROJECT-TEMPLATE
-用这个作为 ESP 相关的模板
-## c语言开发
-idf_component_register(SRCS "main.c"
-                   INCLUDE_DIRS ".")
+# ESP-Lightbox
 
-## c++语言开发
-idf_component_register(SRCS "main.cpp"
-                    INCLUDE_DIRS ".")
+## Features
+
+- Built with Matter
+- Using WS2814 RGBW LED
+
+## Flash
+
+Download the firmware from release. Flash using [esptool-js](https://espressif.github.io/esptool-js/), a web serial flasher utility based on Web Serial API.
